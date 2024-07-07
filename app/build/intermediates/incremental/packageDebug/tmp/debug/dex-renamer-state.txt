@@ -1,0 +1,4 @@
+#Sun Jul 07 00:53:53 ART 2024
+base.0=C\:\\Ailet\\02-app_intent\\IrIntentExample\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

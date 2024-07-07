@@ -1,0 +1,19 @@
+R_DEF: Internal format may change without notice
+local
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btReport
+id btReport2
+id btSummaryReport
+id btSummaryReport2
+id btVisit
+id btVisit2
+id logEditText
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style AppTheme

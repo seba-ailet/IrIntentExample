@@ -1,0 +1,5 @@
+com.intrtl.intentexample.test.app-androidTest-0 C:\Ailet\02-app_intent\IrIntentExample\app\build\generated\res\resValues\androidTest\debug
+com.intrtl.intentexample.test.app-mergeDebugAndroidTestResources-1 C:\Ailet\02-app_intent\IrIntentExample\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.intrtl.intentexample.test.app-mergeDebugAndroidTestResources-2 C:\Ailet\02-app_intent\IrIntentExample\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.intrtl.intentexample.test.app-merged_res-3 C:\Ailet\02-app_intent\IrIntentExample\app\build\intermediates\merged_res\debugAndroidTest
+com.intrtl.intentexample.test.app-jetified-core-1.1.0-4 C:\Users\nuria\.gradle\caches\transforms-3\dab7907c25a8af419b4ec865b81ce45b\transformed\jetified-core-1.1.0\res

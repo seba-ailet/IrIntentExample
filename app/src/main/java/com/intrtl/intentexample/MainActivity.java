@@ -31,13 +31,13 @@ public class MainActivity extends AppCompatActivity {
     private static final int ACTIVITY_RESULT_START_IR_VISIT = 2;
     private static final int ACTIVITY_RESULT_START_IR_SUMMARYREPORT = 3;
     private static final String IR_PACKAGE_NAME = "com.intelligenceretail.www.pilot";
-    private static final String user = "your_user";
-    private static final String password = "your_password";
-    private static final String user_id = null;
-    private static final String visit_id = "test-client1";
+    private static final String user = "solen.mobile.user"; // PARAM USER AUTH
+    private static final String password = "Solentr.0624"; // PARAM PASS AUTH
+    private static final String user_id = "34456"; // PARAM USER MERCH or PERFORMER
+    private static final String visit_id = "test_Solen_05012024_new_ailet_test"; // NAME OF THE VISIT
     private static final String visit_id2 = "test-client2";
-    private static final String store_id = "20";
-    private static final String store_id2 = "25";
+    private static final String store_id = "678091";  // STORE EXTERNAL ID
+    private static final String store_id2 = "124324";
     private BroadcastReceiver shareShelfBroadcast;
 
     @Override
